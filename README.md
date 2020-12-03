@@ -1,6 +1,6 @@
 # world-happiness-analysis
 
-
+![](https://github.com/vyu821/world-happiness-analysis/blob/emma-1/Happy%20image.jpeg)
 
 Summary of Final Project
 
