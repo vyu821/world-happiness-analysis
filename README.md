@@ -15,7 +15,7 @@
 
 * **Data source: Gallup World Poll.**
 
-  Gallup World Poll does provide the report on a uniform comparable basis right across the world to measure how people value their own lives and that’s the single most important statistic in the world. Since 2012, Gallup’s World Poll has been a primary source of global data behind the life satisfaction rankings released in SDSN (Sustainable Development Solutions Network)'s highly publicized World Happiness Report. So far, SDSN has published eight reports. Our analysis contains report data from 2015 to 2019.  
+  Gallup World Poll provides the report on a uniform comparable basis right across the world to measure how people value their own lives and that’s the single most important statistic in the world. Since 2012, Gallup’s World Poll has been a primary source of global data behind the life satisfaction rankings released in SDSN (Sustainable Development Solutions Network)'s highly publicized World Happiness Report. So far, SDSN has published eight reports. Our analysis contains report data from 2015 to 2019.  
 
 
 * **Questions we hope to answer with data: how the 6 factors have been chosen is impacting people's happiess.**  
