@@ -21,9 +21,15 @@
 * **Questions we hope to answer with data: how the 6 factors have been chosen is impacting people's happiess.**  
 
   Analysis focused on 6 main factors based on the poll results from 156 countries:
+ 
   1.GDP per capita: based on Purchasing power parity (PPP) 
+  
   2.Social Support: having someone to count on in times of trouble
+  
   3.Healthy life expectancy: from WHO data repository
+  
   4.Freedom to make life choices: satisfaction level
+  
   5.Generosity: donation
+  
   6.Perceptions of corruption: government corruption and business corruption
