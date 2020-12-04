@@ -8,5 +8,5 @@
 - Double checked in pgAdmin that all tables imported correctly
 
 <br> Figure 1:
-<br> [!code.png](images/code.png)
+<br> ![code.png](images/code.png)
 <br> Please see Figure 1 for detailed code.
