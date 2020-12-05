@@ -6,7 +6,7 @@
 - The columns of the tables were determined by looking at each table and selecting the common headers.
 
 Mildred
-pulled data and created data frame 
-renamed score and country columns to be identical for all years
-combined tables
-selected certain columns to be used further
+*pulled data and created data frame 
+*renamed score and country columns to be identical for all years
+*combined tables
+*selected certain columns to be used further
