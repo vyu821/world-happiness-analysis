@@ -9,4 +9,6 @@
 - Pointed out data source of topic selection and ensured that there is enough data to perform our analysis
 
 - Layed out the questions we are hoping to get answers by performing analysis using different tools
+
+- Merged README drafted for presentation to Master Branch README
   
