@@ -19,8 +19,3 @@
 
 * **Questions we hope to answer with data: what will be the rank of today's top 5 countries in the next five years based on the data from the last five years. This information can advise countries if they're on the right track.** 
 
-## Dutties of Elisa Sanchez in Segment 1
-Elisa Sanchez performed the following sections of happiness_machine_learning_model.ipynb:
-1. Add Year Column
-2. Initial Hypothesis for Machine Learning Model: Outputs Label(s) for Input Data
-3. Second Hypothesis for Machine Learning Model: Outputs Label(s) for Input Data
