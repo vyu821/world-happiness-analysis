@@ -5,3 +5,4 @@ Elisa Sanchez performed the following sections of happiness_machine_learning_mod
 1. Add Year Column
 2. Initial Hypothesis for Machine Learning Model: Outputs Label(s) for Input Data
 3. Second Hypothesis for Machine Learning Model: Outputs Label(s) for Input Data
+4. Merged elisa-1 with master branch 
