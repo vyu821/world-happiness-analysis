@@ -7,17 +7,17 @@ Responsible for the following sections of the happiness_machine_learning_model.i
 
 2. Initial Hypothesis for Machine Learning Model: Outputs Label(s) for Input Data
 
-2.1. Check for Linearity
+  2.1. Check for Linearity
 
-2.2. Encode Country
+  2.2. Encode Country
 
-2.3. Linear Regression
+  2.3. Linear Regression
 
-2.4. Multiple Linear Regression (Test)
+  2.4. Multiple Linear Regression (Test)
 
 3. Second Hypothesis for Machine Learning Model: Outputs Label(s) for Input Data
 
-3.1. Check for Linearity
+  3.1. Check for Linearity
 
-3.2. Linear Regression
+  3.2. Linear Regression
 
