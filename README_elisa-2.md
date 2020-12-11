@@ -15,6 +15,7 @@ Elisa Sanchez performed the following sections of happiness_machine_learning_mod
   
   - model_freedom
 
+
 3. Linear Regression: Input 2015, 2016, 2017, 2018 and 2019 data into linear regression models:
 
   - model_economy
