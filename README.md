@@ -2,9 +2,9 @@
 Victor's branch
 
 ## Segment 2, machine learning model
-- Goal is to see how the other factors affect the happiness score.
-- Plan to use linear regression or neural network.
-- Will do for all 5 years.
-- Need to make sure all 5 tables have same factors/header names. Drop contrasting columns.
-- Feature engineering and selection.
-- Test and training sets
+- Changed all column headers to common names
+- Dropped unecessary/contrasting columns
+- No change to actual data itself, the scores are all in decimals with no outliers
+- Target is Happiness score, features are Economy, Social_Support, Life_Expectancy, Freedom, Perceptions_of_Corruption, Generosity
+- Data was split using default settings for `train_test_split` from sklearn.model_selection
+- Linear regression or neural network?
