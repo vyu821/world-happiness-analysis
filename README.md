@@ -1,23 +1,18 @@
 # World Happiness Report Analysis
 
-## Happiness Summary
+## Dutties of Elisa Sanchez in Segment 2
+Elisa Sanchez performed the following sections of happiness_machine_learning_model.ipynb:
 
-![](https://github.com/vyu821/world-happiness-analysis/blob/emma-1/Happy%20image.jpeg)
+1. Check Linearity: Test to see if there is a linear relationship between factors (Economy, Social Support, Life Expectancy, Freedom, Perceptions of Corruption and Generosity) and Happiness Score. 
 
-* **Topic: World Happiness Report Analysis**
+2. Build Linear Regression Models: Build, train and test Linear Regression models for all factors that presented linear relationship with Happiness Score: Economy, Social Support, Life Expectancy and Freedom. Model names are as follows: 
+  2.1. model_economy
+  2.2. model_social_support
+  2.3. model_life_expectancy
+  2.4. model_freedom
 
-* **Reason selecting the topic:**
-  
-  We wanted to ask you a question - what do you want the most in life? We bet most of your answer is "To be Happy".
-  If happiness is the most important in life, then it worth the effort to be measured. We want to understand what makes a great life and share the information with people around us and inform the leaders as to the activities that they need to do in order to improve people’s lives. It’s a lesson for leaders to look around and see in which countries people do regard themselves as very happy and then ask why and apply it in their countries. 
-
-
-* **Data source: Gallup World Poll.**
-
-  Gallup World Poll provides the report on a uniform comparable basis right across the world to measure how people value their own lives and that’s the single most important statistic in the world. Since 2012, Gallup’s World Poll has been a primary source of global data behind the life satisfaction rankings released in SDSN (Sustainable Development Solutions Network)'s highly publicized World Happiness Report. So far, SDSN has published eight reports. Our analysis contains report data from 2015 to 2019.  
-
-
-* **Questions we hope to answer with data:**
-
-  What will be the rank of today's top 5 countries in the next five years based on the data from the last five years? This information can advise countries if they're on the right track.
-
+3. Linear Regression: Input 2015, 2016, 2017, 2018 and 2019 data into linear regression models:
+  3.1. model_economy
+  3.2. model_social_support
+  3.3. model_life_expectancy
+  3.4. model_freedom
