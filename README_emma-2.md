@@ -2,14 +2,14 @@
 
 ## Dutties of Emma Gao in Segment 2
 
-Presentation and dashboard
+## Presentation and dashboard
 
-I was responsible for presentation and dashboard for segment 2 submission.
+### I was responsible for presentation and dashboard for segment 2 submission.
 
-Presentation and dashboard blueprint is drafted on google slides and during segment 3 and segment 4 is will get further developed. 
+Presentation and dashboard blueprint is drafted on google slides and during segment 3 and segment 4 it will get further developed. 
 Google slides covers below contents:
 
-•	Presentation:
+*	Presentation:
 o	Selected topic
 o	Reason selecting the topic
 o	Description of source data
@@ -17,7 +17,7 @@ o	Questions hope to get answer from data
 o	Description of data exploration phase of the project
 o	And points are presented on google slides
 
-•	Dashboard
+*	Dashboard
 o	Storyboard on Google Slide(s)
 o	Description of the tool(s) that will be used to create final dashboard
 o	Description of interactive element(s)
