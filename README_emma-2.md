@@ -10,17 +10,26 @@ Presentation and dashboard blueprint is drafted on google slides and during segm
 Google slides covers below contents:
 
 *	Presentation:
-o	Selected topic
-o	Reason selecting the topic
-o	Description of source data
-o	Questions hope to get answer from data
-o	Description of data exploration phase of the project
-o	And points are presented on google slides
+
+1. Selected topic
+
+2. Reason selecting the topic
+
+3. Description of source data
+
+4. Questions hope to get answer from data
+
+5. Description of data exploration phase of the project
+
+6. And points are presented on google slides
 
 *	Dashboard
-o	Storyboard on Google Slide(s)
-o	Description of the tool(s) that will be used to create final dashboard
-o	Description of interactive element(s)
+
+1. Storyboard on Google Slide(s)
+
+2. Description of the tool(s) that will be used to create final dashboard
+
+3. Description of interactive element(s)
 
 I have also created interactive map for visualization purpose. It shows 5-year data with country score by color. Refer to World_Happiness_Map.ipynb
 
