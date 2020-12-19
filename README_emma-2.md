@@ -31,7 +31,7 @@ Google slides covers below contents:
 
 3. Description of interactive element(s)
 
-I have also created interactive map for visualization purpose. It shows 5-year data with country score by color. Refer to World_Happiness_Map.ipynb
+I have also created interactive map for visualization purpose. It shows 5-year data with each country's happiness score by color. With yellow being the happiest and dark purple being the least happy. Refer to World_Happiness_Map.ipynb
 
 Below is the link to googleslide:
 
