@@ -13,7 +13,5 @@ Example: New 2015 Table
 - Join 2015-2019 tables for easy comparison 
 - Limited only top 10 countries
 <br> ![sql.png](images/sql.png)
-
-<br>
 <br> Please see Top 10 Join Table:
 <br> ![top.png](images/top.png)
