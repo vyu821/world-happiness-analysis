@@ -16,4 +16,4 @@ Example: New 2015 Table
 
 <br>
 <br> Please see Top 10 Join Table:
-<br> ![top10.png](images/top10.png)
+<br> ![top.png](images/top.png)
