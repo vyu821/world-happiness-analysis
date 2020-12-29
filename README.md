@@ -12,6 +12,10 @@ Cleaned, relabeled columns to make labels the same for all data files (for each 
 
 Week 3: Visualization:
 Took Week 2 excel datafile that contains all five years of data into Tableau and created interactive visualization of findings.
+Created visualization with Tableau
+
+
+
 
 Tableau Link:
 https://public.tableau.com/profile/mildred3127#!/vizhome/WorldHappinessProject1/Story1?publish=yes
