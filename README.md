@@ -33,7 +33,7 @@
 
   6.Perceptions of corruption: government corruption and business corruption
   
-   **Tableau Interactive Visualization** (Mildred)
+* **Tableau Interactive Visualization** (Mildred)
   https://public.tableau.com/profile/mildred3127#!/vizhome/WorldHappinessProject1/Story1?publish=yes
   
 * **Link to google slides for dashboard blueprint:**
