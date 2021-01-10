@@ -6,7 +6,7 @@
   - Overall Ranking: Top 10 Countries
 - Color the top 5 countries to see the changes of ranking from 2015-2019
 <br> Colored Top 5 Countries:
-<br> ![Top5](images/Top5)
+<br> ![Top5.png](images/Top5.png)
 
 
 - Link to google slides for dashboard blueprint:**
