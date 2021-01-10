@@ -35,6 +35,7 @@
   
 * **Tableau Interactive Visualization** 
   https://public.tableau.com/profile/mildred3127#!/vizhome/WorldHappinessProject1/Story1?publish=yes (Mildred)
+  
   https://public.tableau.com/profile/emma.gao#!/vizhome/WorldHappinessReport_16103187883270/Dashboard1?publish=yes (Emma)
   
 * **Link to google slides for dashboard blueprint:**
