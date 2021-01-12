@@ -29,8 +29,22 @@
 
   4.Freedom to make life choices: satisfaction level
   
+  5.Generosity: donation
+
+  6.Perceptions of corruption: government corruption and business corruption
   
- (Mildred)
+* **Tableau Interactive Visualization** 
+
+  https://public.tableau.com/profile/mildred3127#!/vizhome/WorldHappinessProject1/Story1?publish=yes (Mildred)
+  
+  https://public.tableau.com/profile/emma.gao#!/vizhome/WorldHappinessReport_16103187883270/Dashboard1?publish=yes (Emma)
+  
+* **Link to google slides for dashboard blueprint:**
+
+https://docs.google.com/presentation/d/e/2PACX-1vTUmwOTYHPkOCFRrVI2mOHTpH8rYBDYGm2cLpUPx2DKnIvT9yOR2aHLNEZfe4BjoHhlH2BgnnJK5BJ7/pub?start=false&loop=false&delayms=3000
+
+
+(Mildred)
 Title: Thought process in the utilization of machine learning in the group project
 The three broad categories of machine learning at our disposal are:
 1)	Supervised Machine Learning
@@ -46,18 +60,3 @@ The reality is that a massive world study was done and resulted in the publicati
 6.Perceptions of corruption: government corruption and business corruption
 We used supervised machine learning, specifically linear regression to illustrate the outcome of the World Happiness Report and to build prediction models.  Because of results from the report, data was classified and so linear regression can sufficiently predict patterns based on continuous variables.  Furthermore, the study made data available and revealed for features and target variables.     
 
-  
-
-  5.Generosity: donation
-
-  6.Perceptions of corruption: government corruption and business corruption
-  
-* **Tableau Interactive Visualization** 
-
-  https://public.tableau.com/profile/mildred3127#!/vizhome/WorldHappinessProject1/Story1?publish=yes (Mildred)
-  
-  https://public.tableau.com/profile/emma.gao#!/vizhome/WorldHappinessReport_16103187883270/Dashboard1?publish=yes (Emma)
-  
-* **Link to google slides for dashboard blueprint:**
-
-https://docs.google.com/presentation/d/e/2PACX-1vTUmwOTYHPkOCFRrVI2mOHTpH8rYBDYGm2cLpUPx2DKnIvT9yOR2aHLNEZfe4BjoHhlH2BgnnJK5BJ7/pub?start=false&loop=false&delayms=3000
