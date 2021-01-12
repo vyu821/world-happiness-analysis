@@ -45,7 +45,7 @@ https://docs.google.com/presentation/d/e/2PACX-1vTUmwOTYHPkOCFRrVI2mOHTpH8rYBDYG
 
 
 (Mildred)
-Title: Thought process in the utilization of machine learning in the group project
+Title: The thought process in the utilization of machine learning in the group project
 
 The three broad categories of machine learning at our disposal are:
 
