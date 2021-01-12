@@ -19,9 +19,10 @@ Tableau Link:
 https://public.tableau.com/profile/mildred3127#!/vizhome/WorldHappinessProject1/Story1?publish=yes
 
 
-Week 4: Machine Learning Rationale
-(Mildred)
+Week 4: Machine Learning Rationale (Mildred)
+
 Title: Thought process in the utilization of machine learning in the group project
+
 The three broad categories of machine learning at our disposal are:
 1)	Supervised Machine Learning
 2)	Unsupervised Machine Learning
