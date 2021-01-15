@@ -1,6 +1,6 @@
 # World Happiness Report Analysis
 
-## Dutties of Elisa Sanchez in Segment 2
+## Duties of Elisa Sanchez in Segment 2
 Elisa Sanchez performed the following sections of happiness_machine_learning_model.ipynb:
 
 1. Check Linearity: Test to see if there is a linear relationship between factors (Economy, Social Support, Life Expectancy, Freedom, Perceptions of Corruption and Generosity) and Happiness Score. 
