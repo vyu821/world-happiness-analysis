@@ -1,3 +1,9 @@
+Segment 4:
+- Worked on my sildes
+- Presentation note: We joined 2015-2019 tables in pgAdmin, and limited to the top 10 countries for easy comparison. Then, we colored the top 5 countries to have a better view of the changes in Ranking. What’s worth mentioning is that Finland was top 6 back in 2015, but it jumped to Top 1 in 2018 and maintained its place in 2019. On another hand, Switzerland dropped from top 1 to top 6 throughout the years.
+
+<br> This is the final version of our project:
+
 # World Happiness Report Analysis
 
 ## Happiness Summary
@@ -66,5 +72,4 @@ The reality is that a massive world study was done and resulted in the publicati
 
 We used supervised machine learning, specifically linear regression to illustrate the outcome of the World Happiness Report and to build prediction models.  Because of results from the report, data was classified and so linear regression can sufficiently predict patterns based on continuous variables.  Furthermore, the study made data available and revealed for features and target variables. 
 
-This is our final version of our project.
 
