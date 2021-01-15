@@ -64,5 +64,7 @@ The reality is that a massive world study was done and resulted in the publicati
 5.Generosity: donation
 6.Perceptions of corruption: government corruption and business corruption
 
-We used supervised machine learning, specifically linear regression to illustrate the outcome of the World Happiness Report and to build prediction models.  Because of results from the report, data was classified and so linear regression can sufficiently predict patterns based on continuous variables.  Furthermore, the study made data available and revealed for features and target variables.     
+We used supervised machine learning, specifically linear regression to illustrate the outcome of the World Happiness Report and to build prediction models.  Because of results from the report, data was classified and so linear regression can sufficiently predict patterns based on continuous variables.  Furthermore, the study made data available and revealed for features and target variables. 
+
+This is our final version of our project.
 
