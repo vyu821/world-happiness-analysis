@@ -1,6 +1,6 @@
 # World Happiness Report Analysis
 
-## Dutties of Elisa Sanchez in Segment 3
+## Duties of Elisa Sanchez in Segment 3
 Elisa Sanchez performed the following sections of happiness_machine_learning_model.ipynb:
 
 1. Data preprocessing: Added year column and merged all dataframes 
