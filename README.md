@@ -2,7 +2,7 @@
 
 ## Dutties of Elisa Sanchez in Segment 4
 
-1. Updated design and added transition slides to improve presentation fluidity. Transition slides are slide 3, slide 4, slide 9, slide 11 and slide 15. Here's a screen shot of the template used for these slides: 
+1. Updated presentation design and added transition slides to improve presentation fluidity. Transition slides are slide 3, slide 4, slide 9, slide 11 and slide 15. Here's a screen shot of the template used for these slides: 
 
 ![](Transition_slides.png)
 
